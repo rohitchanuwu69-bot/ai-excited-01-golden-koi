@@ -1,8 +1,8 @@
 # Golden Koi from a Teacup
 
-[![make.fun bounty](https://make.fun/c/ai-excited-01/badge.svg)](https://make.fun/c/ai-excited-01)
-[![rank](https://make.fun/c/ai-excited-01/rank/rohitchanuwu69-bot/ai-excited-01-golden-koi/badge.svg)](https://make.fun/c/ai-excited-01)
-[![reward](https://make.fun/c/ai-excited-01/reward/badge.svg)](https://make.fun/c/ai-excited-01)
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/rohitchanuwu69-bot/ai-excited-01-golden-koi/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/rohitchanuwu69-bot/ai-excited-01-golden-koi/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
 An entry for make.fun's **Make the AI judge excited** bounty ($250, top 20 share).
 The image is a golden koi leaping out of a blue-and-white porcelain teacup
